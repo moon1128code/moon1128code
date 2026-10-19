@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Aria — LiuXinyue
 
-<!--
-**moon1128code/moon1128code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postgraduate student at The Hong Kong Polytechnic University, exploring AI agents, retrieval-augmented generation and natural language processing.
 
-Here are some ideas to get you started:
+[Visit my personal website ↗](https://moon1128code.github.io/moon1128code/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+
+- LLM-based agents and trustworthy AI
+- Retrieval-augmented generation and document question answering
+- AI-assisted data annotation and data visualization
+
+## Selected experience
+
+- Financial text annotation and retrieval: graduation thesis covering document parsing, structured annotation and traceable retrieval.
+- Policy question answering: text preprocessing, vector retrieval and LLM integration.
+- Travel review visualization: front-end dashboards using ECharts and processed review data.
+
+Direct contact details are withheld for privacy reasons.
+
+## Website source
+
+Open `index.html` in a modern browser. No dependencies or build step are needed. The initial website is the V0 baseline for COMP5583; future experimental versions should each start from this baseline.
